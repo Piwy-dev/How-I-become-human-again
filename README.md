@@ -11,7 +11,7 @@ https://wall.alphacoders.com/
 https://www.besthdwallpaper.com/
 https://wallhere.com/
 ### Other images:
-The other images has been downoled on Google.
+The other images have been download on Google.
 ### Sounds:
 The souds are free souds that I downloaded on:
 https://www.sound-fishing.net/
