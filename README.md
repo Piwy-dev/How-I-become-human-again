@@ -5,8 +5,8 @@ This game was made for "game jam confinement". It is a simple platform game wher
 To make this game, I used these differents assets:
 ### Standart Asset from Unity:
 The robot is a character available for free in the Unity asset store and more precisely in "Standart asset", created by Unity. I also used the basic platforms available in this asset. I made the other type of plaforms(faling plaforms, moving platforms, ...) myself.
-### Wallpapers:
-The wallpapers have been downloaded from these different sites:
+### Backgrounds:
+The backgrouds have been downloaded from these different sites:
 
 https://wall.alphacoders.com/
 
