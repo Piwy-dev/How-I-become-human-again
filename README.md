@@ -23,7 +23,8 @@ https://www.sound-fishing.net/
 The music came from the website:
 
 https://www.auboutdufil.com/
-The music used for thid game are these:
+
+The musics used for this game are these:
 #### Summer Spliffs - Broke for free
 Title:  Summer Spliffs
 
@@ -48,6 +49,7 @@ Autor: Hungry Lucy
 Source: https://hungrylucy.bandcamp.com
 
 Licence: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.fr
+
 
 I hope you will enjoy this game,
 
