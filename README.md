@@ -13,6 +13,8 @@ https://wall.alphacoders.com/
 https://www.besthdwallpaper.com/
 
 https://wallhere.com/
+
+http://www.proustinformatics.com/linformatique-dans-la-medecine/
 ### Other images:
 The other images have been download on Google.
 ### Sounds:
@@ -21,24 +23,36 @@ The souds are free souds that I downloaded on:
 https://www.sound-fishing.net/
 ### Music
 The music came from the website:
+
 https://www.auboutdufil.com/
-The music used for thid game are these:
+
+The musics used for this game are these:
 #### Summer Spliffs - Broke for free
 Title:  Summer Spliffs
+
 Autor: Broke For Free
+
 Source: http://brokeforfree.bandcamp.com/
+
 Licence: https://creativecommons.org/licenses/by/3.0/deed.fr
 #### Darren Curtis - Journey's Reflection
 Title:  Journey's Reflection
+
 Autor: Darren Curtis
+
 Source: https://darrencurtis.bandcamp.com
+
 Licence: https://creativecommons.org/licenses/by/3.0/deed.fr
 #### Hungry Lucy - Pulse of the Earth
 Title:  Pulse of the Earth
+
 Autor: Hungry Lucy
+
 Source: https://hungrylucy.bandcamp.com
+
 Licence: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.fr
+
 
 I hope you will enjoy this game,
 
-Pierre-Yves Haubruge
+Pierre-Yves Haubruge (azertyuiop)
