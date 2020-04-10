@@ -13,8 +13,6 @@ https://wall.alphacoders.com/
 https://www.besthdwallpaper.com/
 
 https://wallhere.com/
-
-http://www.proustinformatics.com/linformatique-dans-la-medecine/
 ### Other images:
 The other images have been download on Google.
 ### Sounds:
