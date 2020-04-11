@@ -56,6 +56,15 @@ Autor: Hungry Lucy
 Source: https://hungrylucy.bandcamp.com
 
 Licence: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.fr
+#### Vexento - Now
+Title:  Now
+
+Autor: Vexento
+
+Source: https://soundcloud.com/vexento/
+
+Licence: https://creativecommons.org/licenses/by/4.0/deed.fr
+
 
 
 I hope you will enjoy this game,
