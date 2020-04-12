@@ -1,6 +1,13 @@
 # How-I-become-human-again:
+This game was made for "game jam confinement":
+
+Title: How I become human again
+
+Team: @azertyuiop
+
+Technologie: Unity (C#)
 ## Presentation:
-This game was made for "game jam confinement". It is a simple platform game where you play as a robot that has to collect its DNA that scientists have removed from it in order to perform an experiment. 
+How I become human again is a simple platform game where you play as a robot that has to collect its DNA that scientists have removed from it in order to perform an experiment. 
 ## Assets:
 To make this game, I used these differents assets:
 ### Standart Asset from Unity:
@@ -49,6 +56,15 @@ Autor: Hungry Lucy
 Source: https://hungrylucy.bandcamp.com
 
 Licence: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.fr
+#### Vexento - Now
+Title:  Now
+
+Autor: Vexento
+
+Source: https://soundcloud.com/vexento/
+
+Licence: https://creativecommons.org/licenses/by/4.0/deed.fr
+
 
 
 I hope you will enjoy this game,
