@@ -20,6 +20,8 @@ https://wall.alphacoders.com/
 https://www.besthdwallpaper.com/
 
 https://wallhere.com/
+
+http://www.leparisien.fr/economie/automatisation-comment-les-robots-transforment-les-usines-03-04-2017-6818805.php
 ### Other images:
 The other images have been download on Google.
 ### Sounds:
@@ -27,9 +29,11 @@ The souds are free souds that I downloaded on:
 
 https://www.sound-fishing.net/
 ### Music
-The music came from the website:
+The music came from the websites:
 
 https://www.auboutdufil.com/
+
+https://soundcloud.com/
 
 The musics used for this game are these:
 #### Summer Spliffs - Broke for free
@@ -64,8 +68,17 @@ Autor: Vexento
 Source: https://soundcloud.com/vexento/
 
 Licence: https://creativecommons.org/licenses/by/4.0/deed.fr
+#### HolFix - Savior
+Title:  Savior
 
+Autor: HolFix
 
+Source: https://soundcloud.com
+
+Licence: https://creativecommons.org/licenses/by/4.0/deed.fr
+
+### Voices
+I made the voices myself (the robot's voice is made by my father)
 
 I hope you will enjoy this game,
 
