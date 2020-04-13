@@ -1,4 +1,4 @@
-# How-I-become-human-again:
+# How-I-do-become-human-again:
 This game was made for "game jam confinement":
 
 Title: How I become human again
