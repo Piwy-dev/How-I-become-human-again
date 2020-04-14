@@ -3,7 +3,7 @@ This game was made for "game jam confinement":
 
 Title: How I become human again
 
-Team: @azertyuiop
+Team: @Piwy
 
 Technologie: Unity (C#)
 ## Presentation:
@@ -82,4 +82,4 @@ I made the voices myself (the robot's voice is made by my father)
 
 I hope you will enjoy this game,
 
-Pierre-Yves Haubruge (azertyuiop)
+Piwy
